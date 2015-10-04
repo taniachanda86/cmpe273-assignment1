@@ -21,4 +21,3 @@ Part 2:
       Current market price:  GOOG:$626.909973, YHOO:$30.709999, 
       Total unvested amount is: $ 416.51001900000006
       
-  (The "+"/ "-" is not shown in the response of the portfolio because the stock market was closed when I ran it.)
